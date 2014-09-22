@@ -1,0 +1,25 @@
+#sections {
+     width: 50%;
+     padding: 1%;
+     margin-left: auto;
+     margin-right: auto;
+     background-color: #DCDCDC;
+    }
+
+    #headers {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+    }
+
+    #pageHeader {
+	text-align: center;
+    }
+
+    #pageFooter {
+	text-align: center;
+	padding: 2%;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+    }
